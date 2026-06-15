@@ -1,0 +1,33 @@
+url,accessed_at,local_path,http_status,bytes,dataset,coverage_status
+https://raw.githubusercontent.com/openfootball/worldcup/master/2022--qatar/cup.txt,2026-06-13 18:57:56,data/raw/matches/openfootball_worldcup_2022.txt,200,NA,openfootball_worldcup_2022,completo
+https://raw.githubusercontent.com/openfootball/worldcup/master/2022--qatar/cup.txt,2026-06-13 18:58:24,data/raw/matches/openfootball_worldcup_2022.txt,200,8301,openfootball_worldcup_2022,completo
+https://raw.githubusercontent.com/openfootball/worldcup/master/2026--usa/cup.txt,2026-06-13 18:58:24,data/raw/matches/openfootball_worldcup_2026.txt,200,8389,openfootball_worldcup_2026,a_classificar_no_parse
+https://raw.githubusercontent.com/martj42/international_results/master/results.csv,2026-06-13 18:58:25,data/raw/matches/international_results.csv,200,3724391,international_results,historico
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 18:58:55,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://raw.githubusercontent.com/openfootball/worldcup/master/2022--qatar/cup.txt,2026-06-13 18:59:58,data/raw/matches/openfootball_worldcup_2022.txt,200,8301,openfootball_worldcup_2022,completo
+https://raw.githubusercontent.com/openfootball/worldcup/master/2022--qatar/cup_finals.txt,2026-06-13 18:59:58,data/raw/matches/openfootball_worldcup_2022_finals.txt,200,3261,openfootball_worldcup_2022,completo
+https://raw.githubusercontent.com/openfootball/worldcup/master/2026--usa/cup.txt,2026-06-13 18:59:58,data/raw/matches/openfootball_worldcup_2026.txt,200,8389,openfootball_worldcup_2026,a_classificar_no_parse
+https://raw.githubusercontent.com/openfootball/worldcup/master/2026--usa/cup_finals.txt,2026-06-13 18:59:58,data/raw/matches/openfootball_worldcup_2026_finals.txt,200,2415,openfootball_worldcup_2026,a_classificar_no_parse
+https://raw.githubusercontent.com/martj42/international_results/master/results.csv,2026-06-13 18:59:59,data/raw/matches/international_results.csv,200,3724391,international_results,historico
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 19:00:27,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 19:01:26,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 19:07:31,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 19:07:46,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://www.football-data.co.uk/WorldCup2026.xlsx,2026-06-13 19:10:11,data/raw/odds/football_data_worldcup.xlsx,200,143990,football_data_worldcup,xlsx_snapshot
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:22:21,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:23:54,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:30:05,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:31:32,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:32:01,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/qatar-v-switzerland,2026-06-13 19:32:19,data/raw/odds/oddschecker/qatar-v-switzerland.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/brazil-v-morocco,2026-06-13 19:32:36,data/raw/odds/oddschecker/brazil-v-morocco.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/haiti-v-scotland,2026-06-13 19:32:53,data/raw/odds/oddschecker/haiti-v-scotland.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:37:17,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa,2026-06-13 19:39:06,data/raw/odds/oddschecker/copa-do-mundo-fifa.html,403,5968,oddschecker_worldcup_2026,blocked
+https://api.fifa.com/api/v3/rankings/?gender=1&count=300&language=en,2026-06-15 17:12:31,data/raw/rankings/fifa_rankings_current.json,200,126750,NA,NA
+https://www.eloratings.net/World.tsv,2026-06-15 17:12:41,data/raw/elo/world_football_elo_external_current.tsv,200,30487,NA,NA
+https://eloratings.net/en.teams.tsv,2026-06-15 17:12:41,data/raw/elo/world_football_elo_external_teams.tsv,200,7277,NA,NA
+https://www.eloratings.net/World.tsv,2026-06-15 17:14:01,data/raw/elo/world_football_elo_external_current.tsv,200,30487,NA,NA
+https://eloratings.net/en.teams.tsv,2026-06-15 17:14:02,data/raw/elo/world_football_elo_external_teams.tsv,200,7277,NA,NA
+https://raw.githubusercontent.com/openfootball/worldcup/master/2026--usa/cup.txt,2026-06-15T14:32:23-0300,data/raw/matches/openfootball_worldcup_2026.txt,200,9165,openfootball_worldcup_2026,a_classificar_no_parse
+https://raw.githubusercontent.com/openfootball/worldcup/master/2026--usa/cup_finals.txt,2026-06-15T14:32:23-0300,data/raw/matches/openfootball_worldcup_2026_finals.txt,200,2415,openfootball_worldcup_2026,a_classificar_no_parse

@@ -1,0 +1,3 @@
+checked_at,status,message,sport_key,market,regions
+2026-06-13 19:07:47,missing_api_key,Configure THE_ODDS_API_KEY para coletar odds atuais da Copa 2026 via The Odds API.,soccer_fifa_world_cup,h2h,"us,uk,eu"
+2026-06-13T16:10:12-0300,skipped_no_open_keyless_api,The Odds API foi descartada na V1 porque exige API key; o projeto deve usar apenas dados abertos sem compra de chave.,soccer_fifa_world_cup,h2h,"us,uk,eu"

@@ -1,0 +1,193 @@
+year,match_id,date,team_a,team_b,bookmaker,market,odds_team_a,odds_draw,odds_team_b,odds_type,collected_at,source,source_url,source_sheet,source_event_id
+2022,NA,2022-12-18,Argentina,France,Betfair Exchange,1x2,2.76,3.15,3.05,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-17,Croatia,Morocco,Betfair Exchange,1x2,2.32,3.75,3.25,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-14,France,Morocco,Betfair Exchange,1x2,1.62,4,7.2,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-13,Argentina,Croatia,Betfair Exchange,1x2,2.06,3.1,5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,England,France,Betfair Exchange,1x2,2.98,3.2,2.8,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,Morocco,Portugal,Betfair Exchange,1x2,6.6,4,1.66,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Netherlands,Argentina,Betfair Exchange,1x2,3.75,3.25,2.32,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Croatia,Brazil,Betfair Exchange,1x2,9.8,4.9,1.43,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Portugal,Switzerland,Betfair Exchange,1x2,1.96,3.65,4.5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Morocco,Spain,Betfair Exchange,1x2,6.6,4,1.65,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Brazil,South Korea,Betfair Exchange,1x2,1.27,6.6,15,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Japan,Croatia,Betfair Exchange,1x2,4,3.35,2.18,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,England,Senegal,Betfair Exchange,1x2,1.64,3.95,7,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,France,Poland,Betfair Exchange,1x2,1.4,5.1,10.5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Argentina,Australia,Betfair Exchange,1x2,1.32,7,9.4,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Netherlands,USA,Betfair Exchange,1x2,1.99,3.45,4.7,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Cameroon,Brazil,Betfair Exchange,1x2,9.8,5.5,1.39,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Serbia,Switzerland,Betfair Exchange,1x2,2.62,3.45,2.98,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Ghana,Uruguay,Betfair Exchange,1x2,4.9,4,1.8,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,South Korea,Portugal,Betfair Exchange,1x2,4.5,3.95,1.89,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Costa Rica,Germany,Betfair Exchange,1x2,32,12,1.12,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Japan,Spain,Betfair Exchange,1x2,7.4,4.7,1.52,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Canada,Morocco,Betfair Exchange,1x2,5.1,3.6,1.89,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Croatia,Belgium,Betfair Exchange,1x2,3.25,3.5,2.44,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Poland,Argentina,Betfair Exchange,1x2,8.8,4.9,1.46,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Saudi Arabia,Mexico,Betfair Exchange,1x2,5.6,4.4,1.67,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Australia,Denmark,Betfair Exchange,1x2,7.8,5.1,1.47,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Tunisia,France,Betfair Exchange,1x2,6.6,4.1,1.65,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Iran,USA,Betfair Exchange,1x2,4.6,3.6,1.97,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Wales,England,Betfair Exchange,1x2,9.8,4.6,1.45,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Ecuador,Senegal,Betfair Exchange,1x2,2.54,3.15,3.4,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Netherlands,Qatar,Betfair Exchange,1x2,1.21,7.8,19.5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Portugal,Uruguay,Betfair Exchange,1x2,1.98,3.5,4.7,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Brazil,Switzerland,Betfair Exchange,1x2,1.5,4.4,9,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,South Korea,Ghana,Betfair Exchange,1x2,2.84,3.2,2.94,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Cameroon,Serbia,Betfair Exchange,1x2,5.7,3.95,1.73,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Spain,Germany,Betfair Exchange,1x2,2.62,3.5,2.98,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Croatia,Canada,Betfair Exchange,1x2,2.32,3.35,3.6,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Belgium,Morocco,Betfair Exchange,1x2,1.97,3.45,4.8,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Japan,Costa Rica,Betfair Exchange,1x2,1.52,4.5,8.2,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Argentina,Mexico,Betfair Exchange,1x2,1.58,4.1,7.6,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,France,Denmark,Betfair Exchange,1x2,1.86,3.65,5.1,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Poland,Saudi Arabia,Betfair Exchange,1x2,1.75,3.75,6,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Tunisia,Australia,Betfair Exchange,1x2,2.26,3.55,3.55,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,England,USA,Betfair Exchange,1x2,1.5,4.4,9,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Netherlands,Ecuador,Betfair Exchange,1x2,1.91,3.5,5.1,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Qatar,Senegal,Betfair Exchange,1x2,5.9,3.7,1.77,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Wales,Iran,Betfair Exchange,1x2,2.22,3.25,4,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Brazil,Serbia,Betfair Exchange,1x2,1.52,4.7,7.2,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Portugal,Ghana,Betfair Exchange,1x2,1.34,5.8,11.5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Uruguay,South Korea,Betfair Exchange,1x2,1.83,3.65,5.5,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Switzerland,Cameroon,Betfair Exchange,1x2,1.84,3.6,5.3,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Belgium,Canada,Betfair Exchange,1x2,1.64,4.3,6,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Spain,Costa Rica,Betfair Exchange,1x2,1.17,9.4,23,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Germany,Japan,Betfair Exchange,1x2,1.48,5.1,7.6,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Morocco,Croatia,Betfair Exchange,1x2,3.6,3.35,2.34,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,France,Australia,Betfair Exchange,1x2,1.24,7.2,15,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Mexico,Poland,Betfair Exchange,1x2,2.58,3.2,3.3,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Denmark,Tunisia,Betfair Exchange,1x2,1.62,3.95,7.4,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Argentina,Saudi Arabia,Betfair Exchange,1x2,1.13,11,34,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,USA,Wales,Betfair Exchange,1x2,2.56,3.2,3.3,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,Senegal,Netherlands,Betfair Exchange,1x2,6.4,3.8,1.72,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,England,Iran,Betfair Exchange,1x2,1.39,4.9,12,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-20,Qatar,Ecuador,Betfair Exchange,1x2,4,3.2,2.26,unknown,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-18,Argentina,France,Market maximum,1x2,2.7,3.2,2.9,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-17,Croatia,Morocco,Market maximum,1x2,2.25,3.6,3.15,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-14,France,Morocco,Market maximum,1x2,1.62,4,6.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-13,Argentina,Croatia,Market maximum,1x2,2.05,3.13,4.8,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,England,France,Market maximum,1x2,2.95,3.1,2.8,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,Morocco,Portugal,Market maximum,1x2,6.5,4,1.61,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Netherlands,Argentina,Market maximum,1x2,3.75,3.15,2.3,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Croatia,Brazil,Market maximum,1x2,9,4.8,1.4,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Portugal,Switzerland,Market maximum,1x2,2,3.65,4.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Morocco,Spain,Market maximum,1x2,6.5,4,1.62,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Brazil,South Korea,Market maximum,1x2,1.25,6.75,15,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Japan,Croatia,Market maximum,1x2,4,3.25,2.15,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,England,Senegal,Market maximum,1x2,1.62,3.75,7,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,France,Poland,Market maximum,1x2,1.4,5.1,9,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Argentina,Australia,Market maximum,1x2,1.29,6.5,13,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Netherlands,USA,Market maximum,1x2,1.95,3.5,4.6,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Cameroon,Brazil,Market maximum,1x2,11,5.5,1.37,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Serbia,Switzerland,Market maximum,1x2,2.55,3.4,2.9,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Ghana,Uruguay,Market maximum,1x2,4.6,3.9,1.82,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,South Korea,Portugal,Market maximum,1x2,4.4,3.9,1.86,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Costa Rica,Germany,Market maximum,1x2,31,12,1.12,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Japan,Spain,Market maximum,1x2,7.5,4.6,1.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Canada,Morocco,Market maximum,1x2,5,3.55,1.86,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Croatia,Belgium,Market maximum,1x2,3.05,3.5,2.55,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Poland,Argentina,Market maximum,1x2,8.5,4.7,1.44,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Saudi Arabia,Mexico,Market maximum,1x2,5.75,4.35,1.62,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Australia,Denmark,Market maximum,1x2,8,5,1.44,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Tunisia,France,Market maximum,1x2,6,4,1.64,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Iran,USA,Market maximum,1x2,4.25,3.5,2,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Wales,England,Market maximum,1x2,9.5,4.5,1.44,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Ecuador,Senegal,Market maximum,1x2,2.5,3.1,3.3,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Netherlands,Qatar,Market maximum,1x2,1.21,7.25,17,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Portugal,Uruguay,Market maximum,1x2,1.95,3.4,4.6,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Brazil,Switzerland,Market maximum,1x2,1.5,4.35,8.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,South Korea,Ghana,Market maximum,1x2,2.75,3.2,2.88,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Cameroon,Serbia,Market maximum,1x2,5.6,3.8,1.71,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Spain,Germany,Market maximum,1x2,2.6,3.5,2.88,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Croatia,Canada,Market maximum,1x2,2.25,3.3,3.65,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Belgium,Morocco,Market maximum,1x2,1.95,3.5,4.75,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Japan,Costa Rica,Market maximum,1x2,1.51,4.33,7.75,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Argentina,Mexico,Market maximum,1x2,1.58,4.1,8,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,France,Denmark,Market maximum,1x2,1.86,3.6,4.8,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Poland,Saudi Arabia,Market maximum,1x2,1.74,3.65,6,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Tunisia,Australia,Market maximum,1x2,2.2,3.4,3.65,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,England,USA,Market maximum,1x2,1.5,4.33,8.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Netherlands,Ecuador,Market maximum,1x2,1.86,3.5,5.1,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Qatar,Senegal,Market maximum,1x2,6.25,3.65,1.74,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Wales,Iran,Market maximum,1x2,2.2,3.2,4,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Brazil,Serbia,Market maximum,1x2,1.48,4.6,7.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Portugal,Ghana,Market maximum,1x2,1.33,5.75,11,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Uruguay,South Korea,Market maximum,1x2,1.8,3.55,5.2,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Switzerland,Cameroon,Market maximum,1x2,1.83,3.45,5.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Belgium,Canada,Market maximum,1x2,1.6,4.33,6,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Spain,Costa Rica,Market maximum,1x2,1.17,9,23,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Germany,Japan,Market maximum,1x2,1.45,5,7.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Morocco,Croatia,Market maximum,1x2,3.55,3.25,2.25,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,France,Australia,Market maximum,1x2,1.23,7.25,15,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Mexico,Poland,Market maximum,1x2,2.55,3.15,3.2,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Denmark,Tunisia,Market maximum,1x2,1.6,4,7.5,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Argentina,Saudi Arabia,Market maximum,1x2,1.13,10,31,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,USA,Wales,Market maximum,1x2,2.5,3.1,3.4,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,Senegal,Netherlands,Market maximum,1x2,6.25,3.75,1.68,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,England,Iran,Market maximum,1x2,1.4,4.75,11,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-20,Qatar,Ecuador,Market maximum,1x2,3.75,3.2,2.25,maximum,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-18,Argentina,France,Market average,1x2,2.63,3.12,2.84,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-17,Croatia,Morocco,Market average,1x2,2.23,3.49,3.09,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-14,France,Morocco,Market average,1x2,1.58,3.82,6.25,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-13,Argentina,Croatia,Market average,1x2,1.98,3.07,4.45,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,England,France,Market average,1x2,2.81,3.05,2.69,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-10,Morocco,Portugal,Market average,1x2,6.17,3.79,1.58,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Netherlands,Argentina,Market average,1x2,3.57,3.06,2.22,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-09,Croatia,Brazil,Market average,1x2,8.53,4.57,1.39,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Portugal,Switzerland,Market average,1x2,1.91,3.54,4.04,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-06,Morocco,Spain,Market average,1x2,6.04,3.72,1.61,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Brazil,South Korea,Market average,1x2,1.21,6.39,14.22,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-05,Japan,Croatia,Market average,1x2,3.81,3.2,2.08,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,England,Senegal,Market average,1x2,1.59,3.64,6.53,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-04,France,Poland,Market average,1x2,1.38,4.79,8.41,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Argentina,Australia,Market average,1x2,1.27,5.92,10.23,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-03,Netherlands,USA,Market average,1x2,1.9,3.32,4.36,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Cameroon,Brazil,Market average,1x2,8.95,5.19,1.33,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Serbia,Switzerland,Market average,1x2,2.51,3.31,2.81,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,Ghana,Uruguay,Market average,1x2,4.53,3.74,1.77,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-02,South Korea,Portugal,Market average,1x2,4.25,3.73,1.82,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Costa Rica,Germany,Market average,1x2,24.4,10.6,1.09,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Japan,Spain,Market average,1x2,6.98,4.35,1.46,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Canada,Morocco,Market average,1x2,4.71,3.41,1.82,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-12-01,Croatia,Belgium,Market average,1x2,2.97,3.34,2.38,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Poland,Argentina,Market average,1x2,8.15,4.44,1.41,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Saudi Arabia,Mexico,Market average,1x2,5.4,4.13,1.6,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Australia,Denmark,Market average,1x2,7.65,4.66,1.4,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-30,Tunisia,France,Market average,1x2,5.84,3.81,1.61,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Iran,USA,Market average,1x2,4.03,3.45,1.93,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Wales,England,Market average,1x2,8.45,4.35,1.41,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Ecuador,Senegal,Market average,1x2,2.44,3.01,3.18,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-29,Netherlands,Qatar,Market average,1x2,1.19,6.81,14.61,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Portugal,Uruguay,Market average,1x2,1.92,3.29,4.34,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Brazil,Switzerland,Market average,1x2,1.47,4.19,7.4,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,South Korea,Ghana,Market average,1x2,2.7,3.07,2.79,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-28,Cameroon,Serbia,Market average,1x2,5.17,3.73,1.69,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Spain,Germany,Market average,1x2,2.5,3.38,2.79,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Croatia,Canada,Market average,1x2,2.2,3.23,3.47,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Belgium,Morocco,Market average,1x2,1.88,3.35,4.41,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-27,Japan,Costa Rica,Market average,1x2,1.47,4.15,7.36,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Argentina,Mexico,Market average,1x2,1.52,3.89,7.1,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,France,Denmark,Market average,1x2,1.81,3.47,4.67,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Poland,Saudi Arabia,Market average,1x2,1.7,3.54,5.45,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-26,Tunisia,Australia,Market average,1x2,2.16,3.27,3.51,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,England,USA,Market average,1x2,1.46,4.14,7.69,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Netherlands,Ecuador,Market average,1x2,1.83,3.36,4.75,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Qatar,Senegal,Market average,1x2,5.44,3.55,1.7,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-25,Wales,Iran,Market average,1x2,2.11,3.16,3.76,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Brazil,Serbia,Market average,1x2,1.44,4.46,7.08,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Portugal,Ghana,Market average,1x2,1.29,5.38,10.4,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Uruguay,South Korea,Market average,1x2,1.77,3.46,4.94,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-24,Switzerland,Cameroon,Market average,1x2,1.8,3.37,4.95,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Belgium,Canada,Market average,1x2,1.57,4.16,5.74,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Spain,Costa Rica,Market average,1x2,1.14,8.33,17.4,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Germany,Japan,Market average,1x2,1.41,4.85,7.17,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-23,Morocco,Croatia,Market average,1x2,3.44,3.22,2.21,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,France,Australia,Market average,1x2,1.2,6.58,13.69,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Mexico,Poland,Market average,1x2,2.47,3.09,3.09,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Denmark,Tunisia,Market average,1x2,1.57,3.82,6.45,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-22,Argentina,Saudi Arabia,Market average,1x2,1.11,9.08,25.5,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,USA,Wales,Market average,1x2,2.43,3.07,3.17,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,Senegal,Netherlands,Market average,1x2,5.85,3.63,1.65,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-21,England,Iran,Market average,1x2,1.37,4.56,10.14,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA
+2022,NA,2022-11-20,Qatar,Ecuador,Market average,1x2,3.59,3.11,2.22,average,2026-06-13T16:10:12-0300,football-data.co.uk,https://www.football-data.co.uk/WorldCup2026.xlsx,WorldCup2022,NA

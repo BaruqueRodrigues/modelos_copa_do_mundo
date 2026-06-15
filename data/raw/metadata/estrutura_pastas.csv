@@ -1,0 +1,14 @@
+path,exists
+data/raw/matches,TRUE
+data/raw/rankings,TRUE
+data/raw/elo,TRUE
+data/raw/odds,TRUE
+data/raw/statsbomb,TRUE
+data/raw/metadata,TRUE
+data/interim/matches,TRUE
+data/interim/rankings,TRUE
+data/interim/elo,TRUE
+data/interim/odds,TRUE
+data/processed,TRUE
+R/01_coleta,TRUE
+reports,TRUE

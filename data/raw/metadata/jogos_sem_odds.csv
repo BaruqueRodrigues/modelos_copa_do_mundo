@@ -1,0 +1,5 @@
+competition,year,match_id,date,time,stage,group,team_a,team_b,score_a,score_b,score_status,stadium,city,country,source,source_file,team_a_key,team_b_key
+FIFA World Cup,2026,WC2026_001,2026-06-11,13:00:00,Group A,Group A,Mexico,South Africa,2,0,final,NA,Mexico City,Mexico,openfootball/worldcup,data/raw/matches/openfootball_worldcup_2026.txt,mexico,south africa
+FIFA World Cup,2026,WC2026_002,2026-06-11,20:00:00,Group A,Group A,South Korea,Czech Republic,2,1,final,NA,Guadalajara,Mexico,openfootball/worldcup,data/raw/matches/openfootball_worldcup_2026.txt,south korea,czech republic
+FIFA World Cup,2026,WC2026_007,2026-06-12,15:00:00,Group B,Group B,Canada,Bosnia & Herzegovina,1,1,final,NA,Toronto,Canada,openfootball/worldcup,data/raw/matches/openfootball_worldcup_2026.txt,canada,bosnia and herzegovina
+FIFA World Cup,2026,WC2026_019,2026-06-12,18:00:00,Group D,Group D,USA,Paraguay,4,1,final,NA,Los Angeles,United States,openfootball/worldcup,data/raw/matches/openfootball_worldcup_2026.txt,usa,paraguay

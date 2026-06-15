@@ -1,0 +1,21 @@
+checked_at,status,message,url
+2026-06-13 19:21:47,download_error,HTTP 403 Forbidden.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:21:47,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:22:21,cloudflare_blocked,OddsChecker retornou pagina de bloqueio Cloudflare para coleta automatica.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:22:21,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:23:54,cloudflare_blocked,OddsChecker retornou pagina de bloqueio Cloudflare para coleta automatica.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:23:54,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:30:05,cloudflare_blocked,OddsChecker retornou pagina de bloqueio Cloudflare para coleta automatica.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:30:05,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:30:59,download_error,"Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Could not resolve hostname [www.oddschecker.com]:
+Could not resolve host: www.oddschecker.com",https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:30:59,chromote_unavailable,Pacote chromote nao esta instalado.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:30:59,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:31:32,chromote_error,cannot open the connection to 'http://127.0.0.1:9222/json/version',https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:31:32,cloudflare_blocked,OddsChecker retornou pagina de bloqueio Cloudflare para coleta automatica.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:31:32,no_match_links,Nenhum link de partida foi extraido da pagina indice.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa
+2026-06-13 19:32:27,no_bookmaker_odds,Nao foi possivel localizar odds por casa no mercado Vencedor.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/qatar-v-switzerland
+2026-06-13 19:32:45,no_bookmaker_odds,Nao foi possivel localizar odds por casa no mercado Vencedor.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/brazil-v-morocco
+2026-06-13T16:33:02-0300,no_bookmaker_odds,Nao foi possivel localizar odds por casa no mercado Vencedor.,https://www.oddschecker.com/br/futebol/internacional/copa-do-mundo-fifa/haiti-v-scotland
