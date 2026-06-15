@@ -1,0 +1,455 @@
+team,team_key,source,source_name,reference_date,rank,rating_points,country_code,source_url,source_overall_40_99
+Argentina,argentina,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,1,1877.27,ARG,https://inside.fifa.com/fifa-world-ranking/men,99
+Spain,spain,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,2,1874.71,ESP,https://inside.fifa.com/fifa-world-ranking/men,98.71904761904761
+France,france,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,3,1870.7,FRA,https://inside.fifa.com/fifa-world-ranking/men,98.43809523809524
+England,england,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,4,1828.02,ENG,https://inside.fifa.com/fifa-world-ranking/men,98.15714285714286
+Portugal,portugal,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,5,1767.85,POR,https://inside.fifa.com/fifa-world-ranking/men,97.87619047619047
+Brazil,brazil,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,6,1765.86,BRA,https://inside.fifa.com/fifa-world-ranking/men,97.5952380952381
+Morocco,morocco,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,7,1755.1,MAR,https://inside.fifa.com/fifa-world-ranking/men,97.31428571428572
+Netherlands,netherlands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,8,1753.57,NED,https://inside.fifa.com/fifa-world-ranking/men,97.03333333333333
+Belgium,belgium,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,9,1742.24,BEL,https://inside.fifa.com/fifa-world-ranking/men,96.75238095238095
+Germany,germany,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,10,1735.77,GER,https://inside.fifa.com/fifa-world-ranking/men,96.47142857142858
+Croatia,croatia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,11,1714.87,CRO,https://inside.fifa.com/fifa-world-ranking/men,96.19047619047619
+Italy,italy,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,12,1704.73,ITA,https://inside.fifa.com/fifa-world-ranking/men,95.9095238095238
+Colombia,colombia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,13,1698.35,COL,https://inside.fifa.com/fifa-world-ranking/men,95.62857142857143
+Mexico,mexico,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,14,1687.48,MEX,https://inside.fifa.com/fifa-world-ranking/men,95.34761904761905
+Senegal,senegal,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,15,1684.07,SEN,https://inside.fifa.com/fifa-world-ranking/men,95.06666666666666
+Uruguay,uruguay,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,16,1673.07,URU,https://inside.fifa.com/fifa-world-ranking/men,94.78571428571428
+USA,usa,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,17,1671.23,USA,https://inside.fifa.com/fifa-world-ranking/men,94.5047619047619
+Japan,japan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,18,1661.58,JPN,https://inside.fifa.com/fifa-world-ranking/men,94.22380952380952
+Switzerland,switzerland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,19,1650.06,SUI,https://inside.fifa.com/fifa-world-ranking/men,93.94285714285715
+IR Iran,iran,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,20,1619.58,IRN,https://inside.fifa.com/fifa-world-ranking/men,93.66190476190476
+Denmark,denmark,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,21,1619.47,DEN,https://inside.fifa.com/fifa-world-ranking/men,93.38095238095238
+Türkiye,turkey,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,22,1605.73,TUR,https://inside.fifa.com/fifa-world-ranking/men,93.1
+Ecuador,ecuador,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,23,1598.52,ECU,https://inside.fifa.com/fifa-world-ranking/men,92.81904761904762
+Austria,austria,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,24,1597.4,AUT,https://inside.fifa.com/fifa-world-ranking/men,92.53809523809524
+Korea Republic,south korea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,25,1591.63,KOR,https://inside.fifa.com/fifa-world-ranking/men,92.25714285714285
+Nigeria,nigeria,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,26,1585.02,NGA,https://inside.fifa.com/fifa-world-ranking/men,91.97619047619048
+Australia,australia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,27,1579.34,AUS,https://inside.fifa.com/fifa-world-ranking/men,91.6952380952381
+Algeria,algeria,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,28,1571.03,ALG,https://inside.fifa.com/fifa-world-ranking/men,91.41428571428571
+Egypt,egypt,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,29,1562.37,EGY,https://inside.fifa.com/fifa-world-ranking/men,91.13333333333333
+Canada,canada,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,30,1559.48,CAN,https://inside.fifa.com/fifa-world-ranking/men,90.85238095238095
+Norway,norway,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,31,1557.44,NOR,https://inside.fifa.com/fifa-world-ranking/men,90.57142857142857
+Ukraine,ukraine,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,32,1549.29,UKR,https://inside.fifa.com/fifa-world-ranking/men,90.2904761904762
+Côte d'Ivoire,ivory coast,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,33,1540.87,CIV,https://inside.fifa.com/fifa-world-ranking/men,90.00952380952381
+Panama,panama,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,34,1539.16,PAN,https://inside.fifa.com/fifa-world-ranking/men,89.72857142857143
+Russia,russia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,35,1529.6,RUS,https://inside.fifa.com/fifa-world-ranking/men,89.44761904761904
+Poland,poland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,36,1526.18,POL,https://inside.fifa.com/fifa-world-ranking/men,89.16666666666667
+Wales,wales,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,37,1516.95,WAL,https://inside.fifa.com/fifa-world-ranking/men,88.88571428571429
+Sweden,sweden,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,38,1509.79,SWE,https://inside.fifa.com/fifa-world-ranking/men,88.6047619047619
+Hungary,hungary,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,39,1506.39,HUN,https://inside.fifa.com/fifa-world-ranking/men,88.32380952380953
+Czechia,czech republic,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,40,1505.74,CZE,https://inside.fifa.com/fifa-world-ranking/men,88.04285714285714
+Paraguay,paraguay,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,41,1505.35,PAR,https://inside.fifa.com/fifa-world-ranking/men,87.76190476190476
+Scotland,scotland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,42,1503.34,SCO,https://inside.fifa.com/fifa-world-ranking/men,87.48095238095237
+Serbia,serbia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,43,1502.13,SRB,https://inside.fifa.com/fifa-world-ranking/men,87.2
+Cameroon,cameroon,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,44,1481.24,CMR,https://inside.fifa.com/fifa-world-ranking/men,86.91904761904762
+Tunisia,tunisia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,45,1476.41,TUN,https://inside.fifa.com/fifa-world-ranking/men,86.63809523809525
+Congo DR,dr congo,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,46,1474.43,COD,https://inside.fifa.com/fifa-world-ranking/men,86.35714285714286
+Slovakia,slovakia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,47,1473.66,SVK,https://inside.fifa.com/fifa-world-ranking/men,86.07619047619048
+Greece,greece,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,48,1473.19,GRE,https://inside.fifa.com/fifa-world-ranking/men,85.79523809523809
+Venezuela,venezuela,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,49,1469.18,VEN,https://inside.fifa.com/fifa-world-ranking/men,85.51428571428572
+Uzbekistan,uzbekistan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,50,1458.73,UZB,https://inside.fifa.com/fifa-world-ranking/men,85.23333333333333
+Chile,chile,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,51,1458.2,CHI,https://inside.fifa.com/fifa-world-ranking/men,84.95238095238095
+Peru,peru,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,52,1457.69,PER,https://inside.fifa.com/fifa-world-ranking/men,84.67142857142858
+Costa Rica,costa rica,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,53,1456.03,CRC,https://inside.fifa.com/fifa-world-ranking/men,84.39047619047619
+Romania,romania,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,54,1455.89,ROU,https://inside.fifa.com/fifa-world-ranking/men,84.10952380952381
+Mali,mali,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,55,1455.59,MLI,https://inside.fifa.com/fifa-world-ranking/men,83.82857142857142
+Qatar,qatar,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,56,1450.31,QAT,https://inside.fifa.com/fifa-world-ranking/men,83.54761904761905
+Iraq,iraq,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,57,1446.28,IRQ,https://inside.fifa.com/fifa-world-ranking/men,83.26666666666667
+Republic of Ireland,republic of ireland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,58,1441.1,IRL,https://inside.fifa.com/fifa-world-ranking/men,82.98571428571428
+Slovenia,slovenia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,59,1441.09,SVN,https://inside.fifa.com/fifa-world-ranking/men,82.70476190476191
+South Africa,south africa,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,60,1428.38,RSA,https://inside.fifa.com/fifa-world-ranking/men,82.42380952380952
+Saudi Arabia,saudi arabia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,61,1423.88,KSA,https://inside.fifa.com/fifa-world-ranking/men,82.14285714285714
+Burkina Faso,burkina faso,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,62,1406.99,BFA,https://inside.fifa.com/fifa-world-ranking/men,81.86190476190475
+Jordan,jordan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,63,1387.74,JOR,https://inside.fifa.com/fifa-world-ranking/men,81.58095238095238
+Bosnia and Herzegovina,bosnia and herzegovina,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,64,1387.22,BIH,https://inside.fifa.com/fifa-world-ranking/men,81.3
+Honduras,honduras,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,65,1378.97,HON,https://inside.fifa.com/fifa-world-ranking/men,81.01904761904763
+Albania,albania,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,66,1376.03,ALB,https://inside.fifa.com/fifa-world-ranking/men,80.73809523809524
+Cabo Verde,cape verde,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,67,1371.11,CPV,https://inside.fifa.com/fifa-world-ranking/men,80.45714285714286
+United Arab Emirates,united arab emirates,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,68,1370.47,UAE,https://inside.fifa.com/fifa-world-ranking/men,80.17619047619047
+North Macedonia,north macedonia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,69,1369.16,MKD,https://inside.fifa.com/fifa-world-ranking/men,79.8952380952381
+Northern Ireland,northern ireland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,70,1365.3,NIR,https://inside.fifa.com/fifa-world-ranking/men,79.61428571428571
+Jamaica,jamaica,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,71,1357.84,JAM,https://inside.fifa.com/fifa-world-ranking/men,79.33333333333333
+Georgia,georgia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,72,1355.26,GEO,https://inside.fifa.com/fifa-world-ranking/men,79.05238095238096
+Ghana,ghana,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,73,1346.88,GHA,https://inside.fifa.com/fifa-world-ranking/men,78.77142857142857
+Iceland,iceland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,74,1342.77,ISL,https://inside.fifa.com/fifa-world-ranking/men,78.49047619047619
+Finland,finland,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,75,1341.92,FIN,https://inside.fifa.com/fifa-world-ranking/men,78.2095238095238
+Israel,israel,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,76,1333.9,ISR,https://inside.fifa.com/fifa-world-ranking/men,77.92857142857143
+Bolivia,bolivia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,77,1326,BOL,https://inside.fifa.com/fifa-world-ranking/men,77.64761904761905
+Kosovo,kosovo,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,78,1319.12,KOS,https://inside.fifa.com/fifa-world-ranking/men,77.36666666666667
+Oman,oman,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,79,1306.9,OMA,https://inside.fifa.com/fifa-world-ranking/men,77.08571428571429
+Montenegro,montenegro,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,80,1301.98,MNE,https://inside.fifa.com/fifa-world-ranking/men,76.8047619047619
+Guinea,guinea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,81,1295.6,GUI,https://inside.fifa.com/fifa-world-ranking/men,76.52380952380952
+Curaçao,curacao,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,82,1294.77,CUW,https://inside.fifa.com/fifa-world-ranking/men,76.24285714285715
+Haiti,haiti,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,83,1293.1,HAI,https://inside.fifa.com/fifa-world-ranking/men,75.96190476190476
+Syria,syria,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,84,1283.05,SYR,https://inside.fifa.com/fifa-world-ranking/men,75.68095238095238
+New Zealand,new zealand,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,85,1275.58,NZL,https://inside.fifa.com/fifa-world-ranking/men,75.4
+Gabon,gabon,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,86,1272.51,GAB,https://inside.fifa.com/fifa-world-ranking/men,75.11904761904762
+Bulgaria,bulgaria,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,87,1271.68,BUL,https://inside.fifa.com/fifa-world-ranking/men,74.83809523809524
+Angola,angola,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,88,1265.58,ANG,https://inside.fifa.com/fifa-world-ranking/men,74.55714285714285
+Uganda,uganda,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,89,1264.09,UGA,https://inside.fifa.com/fifa-world-ranking/men,74.27619047619048
+Zambia,zambia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,90,1255.82,ZAM,https://inside.fifa.com/fifa-world-ranking/men,73.9952380952381
+China PR,china pr,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,91,1254.81,CHN,https://inside.fifa.com/fifa-world-ranking/men,73.71428571428572
+Bahrain,bahrain,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,92,1254.41,BHR,https://inside.fifa.com/fifa-world-ranking/men,73.43333333333334
+Benin,benin,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,93,1252.17,BEN,https://inside.fifa.com/fifa-world-ranking/men,73.15238095238095
+Thailand,thailand,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,94,1250.8,THA,https://inside.fifa.com/fifa-world-ranking/men,72.87142857142857
+Palestine,palestine,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,95,1243.71,PLE,https://inside.fifa.com/fifa-world-ranking/men,72.5904761904762
+Belarus,belarus,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,96,1242.88,BLR,https://inside.fifa.com/fifa-world-ranking/men,72.30952380952381
+Guatemala,guatemala,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,97,1238.74,GUA,https://inside.fifa.com/fifa-world-ranking/men,72.02857142857142
+Luxembourg,luxembourg,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,98,1232.82,LUX,https://inside.fifa.com/fifa-world-ranking/men,71.74761904761905
+Vietnam,vietnam,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,99,1225.68,VIE,https://inside.fifa.com/fifa-world-ranking/men,71.46666666666667
+El Salvador,el salvador,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,100,1225.34,SLV,https://inside.fifa.com/fifa-world-ranking/men,71.18571428571428
+Tajikistan,tajikistan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,101,1224.19,TJK,https://inside.fifa.com/fifa-world-ranking/men,70.9047619047619
+Trinidad and Tobago,trinidad and tobago,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,102,1219.59,TRI,https://inside.fifa.com/fifa-world-ranking/men,70.62380952380953
+Mozambique,mozambique,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,103,1218.62,MOZ,https://inside.fifa.com/fifa-world-ranking/men,70.34285714285714
+Madagascar,madagascar,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,104,1202.69,MAD,https://inside.fifa.com/fifa-world-ranking/men,70.06190476190476
+Equatorial Guinea,equatorial guinea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,105,1195.2,EQG,https://inside.fifa.com/fifa-world-ranking/men,69.78095238095239
+Kyrgyz Republic,kyrgyz republic,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,106,1192.16,KGZ,https://inside.fifa.com/fifa-world-ranking/men,69.5
+Armenia,armenia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,107,1189.63,ARM,https://inside.fifa.com/fifa-world-ranking/men,69.21904761904761
+Comoros,comoros,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,108,1187.91,COM,https://inside.fifa.com/fifa-world-ranking/men,68.93809523809523
+Kenya,kenya,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,109,1185.08,KEN,https://inside.fifa.com/fifa-world-ranking/men,68.65714285714286
+Libya,libya,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,110,1182.08,LBY,https://inside.fifa.com/fifa-world-ranking/men,68.37619047619047
+Kazakhstan,kazakhstan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,111,1180.78,KAZ,https://inside.fifa.com/fifa-world-ranking/men,68.0952380952381
+Tanzania,tanzania,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,112,1180.27,TAN,https://inside.fifa.com/fifa-world-ranking/men,67.81428571428572
+Mauritania,mauritania,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,113,1176.68,MTN,https://inside.fifa.com/fifa-world-ranking/men,67.53333333333333
+Niger,niger,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,114,1175.33,NIG,https://inside.fifa.com/fifa-world-ranking/men,67.25238095238095
+Lebanon,lebanon,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,115,1172.22,LBN,https://inside.fifa.com/fifa-world-ranking/men,66.97142857142858
+The Gambia,the gambia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,116,1159.64,GAM,https://inside.fifa.com/fifa-world-ranking/men,66.69047619047619
+Sudan,sudan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,117,1157.22,SDN,https://inside.fifa.com/fifa-world-ranking/men,66.40952380952382
+Indonesia,indonesia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,118,1157.14,IDN,https://inside.fifa.com/fifa-world-ranking/men,66.12857142857143
+Togo,togo,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,119,1152.76,TOG,https://inside.fifa.com/fifa-world-ranking/men,65.84761904761905
+DPR Korea,dpr korea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,120,1151.05,PRK,https://inside.fifa.com/fifa-world-ranking/men,65.56666666666666
+Namibia,namibia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,121,1148.84,NAM,https://inside.fifa.com/fifa-world-ranking/men,65.28571428571428
+Sierra Leone,sierra leone,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,122,1147.56,SLE,https://inside.fifa.com/fifa-world-ranking/men,65.0047619047619
+Faroe Islands,faroe islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,123,1136.59,FRO,https://inside.fifa.com/fifa-world-ranking/men,64.72380952380952
+Cyprus,cyprus,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,124,1133.25,CYP,https://inside.fifa.com/fifa-world-ranking/men,64.44285714285715
+Suriname,suriname,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,125,1132.43,SUR,https://inside.fifa.com/fifa-world-ranking/men,64.16190476190476
+Azerbaijan,azerbaijan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,126,1132,AZE,https://inside.fifa.com/fifa-world-ranking/men,63.88095238095238
+Estonia,estonia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,127,1130.64,EST,https://inside.fifa.com/fifa-world-ranking/men,63.6
+Rwanda,rwanda,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,128,1126.62,RWA,https://inside.fifa.com/fifa-world-ranking/men,63.31904761904762
+Malawi,malawi,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,129,1122.05,MWI,https://inside.fifa.com/fifa-world-ranking/men,63.03809523809524
+Zimbabwe,zimbabwe,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,130,1119.78,ZIM,https://inside.fifa.com/fifa-world-ranking/men,62.75714285714286
+Nicaragua,nicaragua,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,131,1114.63,NCA,https://inside.fifa.com/fifa-world-ranking/men,62.476190476190474
+Guinea-Bissau,guinea bissau,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,132,1108.38,GNB,https://inside.fifa.com/fifa-world-ranking/men,62.195238095238096
+Kuwait,kuwait,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,133,1106.47,KUW,https://inside.fifa.com/fifa-world-ranking/men,61.91428571428571
+Congo,congo,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,134,1105.96,CGO,https://inside.fifa.com/fifa-world-ranking/men,61.63333333333333
+Philippines,philippines,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,135,1100.95,PHI,https://inside.fifa.com/fifa-world-ranking/men,61.352380952380955
+Malaysia,malaysia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,136,1086.22,MAS,https://inside.fifa.com/fifa-world-ranking/men,61.07142857142857
+Latvia,latvia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,137,1085.66,LVA,https://inside.fifa.com/fifa-world-ranking/men,60.79047619047619
+India,india,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,138,1084.93,IND,https://inside.fifa.com/fifa-world-ranking/men,60.50952380952381
+Central African Republic,central african republic,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,139,1080.82,CTA,https://inside.fifa.com/fifa-world-ranking/men,60.22857142857143
+Liberia,liberia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,140,1080.44,LBR,https://inside.fifa.com/fifa-world-ranking/men,59.94761904761905
+Turkmenistan,turkmenistan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,141,1078.65,TKM,https://inside.fifa.com/fifa-world-ranking/men,59.666666666666664
+Burundi,burundi,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,142,1078.01,BDI,https://inside.fifa.com/fifa-world-ranking/men,59.385714285714286
+Ethiopia,ethiopia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,143,1077.52,ETH,https://inside.fifa.com/fifa-world-ranking/men,59.1047619047619
+Dominican Republic,dominican republic,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,144,1076.5,DOM,https://inside.fifa.com/fifa-world-ranking/men,58.82380952380952
+Yemen,yemen,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,145,1065.24,YEM,https://inside.fifa.com/fifa-world-ranking/men,58.542857142857144
+Lesotho,lesotho,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,146,1064.29,LES,https://inside.fifa.com/fifa-world-ranking/men,58.26190476190476
+Botswana,botswana,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,147,1063.63,BOT,https://inside.fifa.com/fifa-world-ranking/men,57.98095238095238
+Singapore,singapore,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,148,1057.95,SGP,https://inside.fifa.com/fifa-world-ranking/men,57.7
+Lithuania,lithuania,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,149,1056.85,LTU,https://inside.fifa.com/fifa-world-ranking/men,57.41904761904762
+Guyana,guyana,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,150,1049.32,GUY,https://inside.fifa.com/fifa-world-ranking/men,57.13809523809524
+New Caledonia,new caledonia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,151,1036.95,NCL,https://inside.fifa.com/fifa-world-ranking/men,56.85714285714286
+St Kitts and Nevis,st kitts and nevis,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,152,1036.33,SKN,https://inside.fifa.com/fifa-world-ranking/men,56.576190476190476
+Solomon Islands,solomon islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,153,1031.89,SOL,https://inside.fifa.com/fifa-world-ranking/men,56.2952380952381
+Puerto Rico,puerto rico,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,154,1024.3,PUR,https://inside.fifa.com/fifa-world-ranking/men,56.01428571428571
+Fiji,fiji,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,155,1024.17,FIJ,https://inside.fifa.com/fifa-world-ranking/men,55.733333333333334
+"Hong Kong, China",hong kong china,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,156,1024.16,HKG,https://inside.fifa.com/fifa-world-ranking/men,55.45238095238095
+Tahiti,tahiti,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,157,1019.04,TAH,https://inside.fifa.com/fifa-world-ranking/men,55.17142857142857
+Myanmar,myanmar,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,158,1010.91,MYA,https://inside.fifa.com/fifa-world-ranking/men,54.89047619047619
+Moldova,moldova,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,159,1008.24,MDA,https://inside.fifa.com/fifa-world-ranking/men,54.60952380952381
+Vanuatu,vanuatu,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,160,1002.53,VAN,https://inside.fifa.com/fifa-world-ranking/men,54.32857142857143
+Malta,malta,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,161,992.79,MLT,https://inside.fifa.com/fifa-world-ranking/men,54.04761904761905
+Antigua and Barbuda,antigua and barbuda,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,162,986.58,ATG,https://inside.fifa.com/fifa-world-ranking/men,53.766666666666666
+Grenada,grenada,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,163,981.82,GRN,https://inside.fifa.com/fifa-world-ranking/men,53.48571428571429
+Cuba,cuba,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,164,981.42,CUB,https://inside.fifa.com/fifa-world-ranking/men,53.20476190476191
+Eswatini,eswatini,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,165,979.01,SWZ,https://inside.fifa.com/fifa-world-ranking/men,52.923809523809524
+St Lucia,st lucia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,166,976.71,LCA,https://inside.fifa.com/fifa-world-ranking/men,52.64285714285714
+Bermuda,bermuda,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,167,975.05,BER,https://inside.fifa.com/fifa-world-ranking/men,52.36190476190476
+Papua New Guinea,papua new guinea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,168,974.9,PNG,https://inside.fifa.com/fifa-world-ranking/men,52.08095238095238
+South Sudan,south sudan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,169,970.94,SSD,https://inside.fifa.com/fifa-world-ranking/men,51.8
+St Vincent and the Grenadines,st vincent and the grenadines,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,170,968.27,VIN,https://inside.fifa.com/fifa-world-ranking/men,51.51904761904762
+Afghanistan,afghanistan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,171,968.07,AFG,https://inside.fifa.com/fifa-world-ranking/men,51.23809523809524
+Andorra,andorra,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,172,946.43,AND,https://inside.fifa.com/fifa-world-ranking/men,50.957142857142856
+Maldives,maldives,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,173,943.92,MDV,https://inside.fifa.com/fifa-world-ranking/men,50.67619047619048
+Chinese Taipei,chinese taipei,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,174,923.78,TPE,https://inside.fifa.com/fifa-world-ranking/men,50.3952380952381
+Cambodia,cambodia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,175,922.32,CAM,https://inside.fifa.com/fifa-world-ranking/men,50.114285714285714
+Montserrat,montserrat,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,176,916.75,MSR,https://inside.fifa.com/fifa-world-ranking/men,49.83333333333333
+Nepal,nepal,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,177,914.54,NEP,https://inside.fifa.com/fifa-world-ranking/men,49.55238095238095
+Mauritius,mauritius,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,178,911.49,MRI,https://inside.fifa.com/fifa-world-ranking/men,49.27142857142857
+Barbados,barbados,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,179,909.89,BRB,https://inside.fifa.com/fifa-world-ranking/men,48.99047619047619
+Belize,belize,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,180,907,BLZ,https://inside.fifa.com/fifa-world-ranking/men,48.70952380952381
+Bangladesh,bangladesh,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,181,902.93,BAN,https://inside.fifa.com/fifa-world-ranking/men,48.42857142857143
+Dominica,dominica,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,182,897.69,DMA,https://inside.fifa.com/fifa-world-ranking/men,48.147619047619045
+Chad,chad,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,183,896.85,CHA,https://inside.fifa.com/fifa-world-ranking/men,47.86666666666667
+Eritrea,eritrea,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,184,887.06,ERI,https://inside.fifa.com/fifa-world-ranking/men,47.58571428571429
+Laos,laos,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,185,885.03,LAO,https://inside.fifa.com/fifa-world-ranking/men,47.304761904761904
+Cook Islands,cook islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,186,877.53,COK,https://inside.fifa.com/fifa-world-ranking/men,47.023809523809526
+Sri Lanka,sri lanka,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,187,876.86,SRI,https://inside.fifa.com/fifa-world-ranking/men,46.74285714285714
+Samoa,samoa,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,188,876.41,SAM,https://inside.fifa.com/fifa-world-ranking/men,46.46190476190476
+Aruba,aruba,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,189,875.61,ARU,https://inside.fifa.com/fifa-world-ranking/men,46.180952380952384
+Mongolia,mongolia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,190,874.47,MNG,https://inside.fifa.com/fifa-world-ranking/men,45.9
+American Samoa,american samoa,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,191,871.61,ASA,https://inside.fifa.com/fifa-world-ranking/men,45.61904761904762
+Bhutan,bhutan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,192,870.81,BHU,https://inside.fifa.com/fifa-world-ranking/men,45.338095238095235
+Macau,macau,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,193,858.03,MAC,https://inside.fifa.com/fifa-world-ranking/men,45.05714285714286
+Brunei Darussalam,brunei darussalam,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,194,857.73,BRU,https://inside.fifa.com/fifa-world-ranking/men,44.77619047619048
+São Tomé and Príncipe,sao tome and principe,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,195,855.44,STP,https://inside.fifa.com/fifa-world-ranking/men,44.49523809523809
+Djibouti,djibouti,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,196,853.58,DJI,https://inside.fifa.com/fifa-world-ranking/men,44.214285714285715
+Cayman Islands,cayman islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,197,850.06,CAY,https://inside.fifa.com/fifa-world-ranking/men,43.93333333333333
+Pakistan,pakistan,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,198,840.28,PAK,https://inside.fifa.com/fifa-world-ranking/men,43.65238095238095
+Somalia,somalia,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,199,839.17,SOM,https://inside.fifa.com/fifa-world-ranking/men,43.371428571428574
+Tonga,tonga,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,200,835.64,TGA,https://inside.fifa.com/fifa-world-ranking/men,43.09047619047619
+Timor-Leste,timor leste,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,201,831,TLS,https://inside.fifa.com/fifa-world-ranking/men,42.80952380952381
+Gibraltar,gibraltar,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,202,820.26,GIB,https://inside.fifa.com/fifa-world-ranking/men,42.528571428571425
+Guam,guam,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,203,819.54,GUM,https://inside.fifa.com/fifa-world-ranking/men,42.24761904761905
+Seychelles,seychelles,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,204,804.16,SEY,https://inside.fifa.com/fifa-world-ranking/men,41.96666666666667
+Turks and Caicos Islands,turks and caicos islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,205,803.98,TCA,https://inside.fifa.com/fifa-world-ranking/men,41.68571428571428
+Liechtenstein,liechtenstein,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,206,797.7,LIE,https://inside.fifa.com/fifa-world-ranking/men,41.404761904761905
+Bahamas,bahamas,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,207,786.82,BAH,https://inside.fifa.com/fifa-world-ranking/men,41.12380952380953
+US Virgin Islands,us virgin islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,208,779.76,VIR,https://inside.fifa.com/fifa-world-ranking/men,40.84285714285714
+British Virgin Islands,british virgin islands,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,209,777.41,VGB,https://inside.fifa.com/fifa-world-ranking/men,40.56190476190476
+Anguilla,anguilla,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,210,760.25,AIA,https://inside.fifa.com/fifa-world-ranking/men,40.28095238095238
+San Marino,san marino,fifa,FIFA/Coca-Cola Men's World Ranking,2026-06-11,211,721.2,SMR,https://inside.fifa.com/fifa-world-ranking/men,40
+Spain,spain,world_football_elo,World Football Elo Ratings,2026-06-15,1,2157,ES,https://www.eloratings.net/,99
+Argentina,argentina,world_football_elo,World Football Elo Ratings,2026-06-15,2,2115,AR,https://www.eloratings.net/,98.75619834710744
+France,france,world_football_elo,World Football Elo Ratings,2026-06-15,3,2063,FR,https://www.eloratings.net/,98.51239669421489
+England,england,world_football_elo,World Football Elo Ratings,2026-06-15,4,2024,EN,https://www.eloratings.net/,98.26859504132231
+Portugal,portugal,world_football_elo,World Football Elo Ratings,2026-06-15,5,1989,PT,https://www.eloratings.net/,98.02479338842976
+Colombia,colombia,world_football_elo,World Football Elo Ratings,2026-06-15,6,1982,CO,https://www.eloratings.net/,97.78099173553719
+Brazil,brazil,world_football_elo,World Football Elo Ratings,2026-06-15,7,1978,BR,https://www.eloratings.net/,97.53719008264463
+Netherlands,netherlands,world_football_elo,World Football Elo Ratings,2026-06-15,8,1944,NL,https://www.eloratings.net/,97.29338842975207
+Germany,germany,world_football_elo,World Football Elo Ratings,2026-06-15,9,1939,DE,https://www.eloratings.net/,97.04958677685951
+Norway,norway,world_football_elo,World Football Elo Ratings,2026-06-15,10,1914,NO,https://www.eloratings.net/,96.80578512396694
+Croatia,croatia,world_football_elo,World Football Elo Ratings,2026-06-15,11,1912,HR,https://www.eloratings.net/,96.56198347107438
+Japan,japan,world_football_elo,World Football Elo Ratings,2026-06-15,12,1910,JP,https://www.eloratings.net/,96.31818181818181
+Belgium,belgium,world_football_elo,World Football Elo Ratings,2026-06-15,13,1894,BE,https://www.eloratings.net/,96.07438016528926
+Uruguay,uruguay,world_football_elo,World Football Elo Ratings,2026-06-15,14,1892,UY,https://www.eloratings.net/,95.8305785123967
+Ecuador,ecuador,world_football_elo,World Football Elo Ratings,2026-06-15,15,1890,EC,https://www.eloratings.net/,95.58677685950413
+Mexico,mexico,world_football_elo,World Football Elo Ratings,2026-06-15,16,1881,MX,https://www.eloratings.net/,95.34297520661157
+Denmark,denmark,world_football_elo,World Football Elo Ratings,2026-06-15,17,1869,DK,https://www.eloratings.net/,94.85537190082644
+Italy,italy,world_football_elo,World Football Elo Ratings,2026-06-15,17,1869,IT,https://www.eloratings.net/,94.85537190082644
+Switzerland,switzerland,world_football_elo,World Football Elo Ratings,2026-06-15,19,1865,CH,https://www.eloratings.net/,94.61157024793388
+Senegal,senegal,world_football_elo,World Football Elo Ratings,2026-06-15,20,1860,SN,https://www.eloratings.net/,94.36776859504133
+Turkey,turkey,world_football_elo,World Football Elo Ratings,2026-06-15,21,1849,TR,https://www.eloratings.net/,94.12396694214877
+Morocco,morocco,world_football_elo,World Football Elo Ratings,2026-06-15,22,1840,MA,https://www.eloratings.net/,93.8801652892562
+Australia,australia,world_football_elo,World Football Elo Ratings,2026-06-15,23,1839,AU,https://www.eloratings.net/,93.63636363636363
+Austria,austria,world_football_elo,World Football Elo Ratings,2026-06-15,24,1830,AT,https://www.eloratings.net/,93.39256198347107
+Scotland,scotland,world_football_elo,World Football Elo Ratings,2026-06-15,25,1794,SQ,https://www.eloratings.net/,93.14876033057851
+South Korea,south korea,world_football_elo,World Football Elo Ratings,2026-06-15,26,1786,KR,https://www.eloratings.net/,92.90495867768595
+Paraguay,paraguay,world_football_elo,World Football Elo Ratings,2026-06-15,27,1780,PY,https://www.eloratings.net/,92.17355371900827
+Ukraine,ukraine,world_football_elo,World Football Elo Ratings,2026-06-15,27,1780,UA,https://www.eloratings.net/,92.17355371900827
+United States,usa,world_football_elo,World Football Elo Ratings,2026-06-15,27,1780,US,https://www.eloratings.net/,92.17355371900827
+Algeria,algeria,world_football_elo,World Football Elo Ratings,2026-06-15,30,1772,DZ,https://www.eloratings.net/,91.44214876033058
+Iran,iran,world_football_elo,World Football Elo Ratings,2026-06-15,30,1772,IR,https://www.eloratings.net/,91.44214876033058
+Russia,russia,world_football_elo,World Football Elo Ratings,2026-06-15,30,1772,RU,https://www.eloratings.net/,91.44214876033058
+Canada,canada,world_football_elo,World Football Elo Ratings,2026-06-15,33,1767,CA,https://www.eloratings.net/,90.95454545454545
+Nigeria,nigeria,world_football_elo,World Football Elo Ratings,2026-06-15,33,1767,NG,https://www.eloratings.net/,90.95454545454545
+Sweden,sweden,world_football_elo,World Football Elo Ratings,2026-06-15,35,1755,SE,https://www.eloratings.net/,90.7107438016529
+Greece,greece,world_football_elo,World Football Elo Ratings,2026-06-15,36,1744,GR,https://www.eloratings.net/,90.46694214876032
+Ivory Coast,ivory coast,world_football_elo,World Football Elo Ratings,2026-06-15,37,1743,CI,https://www.eloratings.net/,90.22314049586777
+Serbia,serbia,world_football_elo,World Football Elo Ratings,2026-06-15,38,1734,RS,https://www.eloratings.net/,89.97933884297521
+Venezuela,venezuela,world_football_elo,World Football Elo Ratings,2026-06-15,39,1733,VE,https://www.eloratings.net/,89.73553719008265
+Panama,panama,world_football_elo,World Football Elo Ratings,2026-06-15,40,1730,PA,https://www.eloratings.net/,89.49173553719008
+Chile,chile,world_football_elo,World Football Elo Ratings,2026-06-15,41,1717,CL,https://www.eloratings.net/,89.24793388429752
+Kosovo,kosovo,world_football_elo,World Football Elo Ratings,2026-06-15,42,1715,KO,https://www.eloratings.net/,89.00413223140495
+Uzbekistan,uzbekistan,world_football_elo,World Football Elo Ratings,2026-06-15,43,1714,UZ,https://www.eloratings.net/,88.7603305785124
+Czechia,czech republic,world_football_elo,World Football Elo Ratings,2026-06-15,44,1712,CZ,https://www.eloratings.net/,88.51652892561984
+Hungary,hungary,world_football_elo,World Football Elo Ratings,2026-06-15,45,1710,HU,https://www.eloratings.net/,88.02892561983471
+Poland,poland,world_football_elo,World Football Elo Ratings,2026-06-15,45,1710,PL,https://www.eloratings.net/,88.02892561983471
+Peru,peru,world_football_elo,World Football Elo Ratings,2026-06-15,47,1700,PE,https://www.eloratings.net/,87.78512396694214
+Ireland,ireland,world_football_elo,World Football Elo Ratings,2026-06-15,48,1699,IE,https://www.eloratings.net/,87.54132231404958
+Egypt,egypt,world_football_elo,World Football Elo Ratings,2026-06-15,49,1696,EG,https://www.eloratings.net/,87.29752066115702
+Wales,wales,world_football_elo,World Football Elo Ratings,2026-06-15,50,1682,WA,https://www.eloratings.net/,86.80991735537191
+Slovenia,slovenia,world_football_elo,World Football Elo Ratings,2026-06-15,50,1682,SI,https://www.eloratings.net/,86.80991735537191
+Jordan,jordan,world_football_elo,World Football Elo Ratings,2026-06-15,52,1680,JO,https://www.eloratings.net/,86.56611570247935
+Slovakia,slovakia,world_football_elo,World Football Elo Ratings,2026-06-15,53,1667,SK,https://www.eloratings.net/,86.32231404958678
+Georgia,georgia,world_football_elo,World Football Elo Ratings,2026-06-15,54,1654,GE,https://www.eloratings.net/,86.07851239669421
+DR Congo,dr congo,world_football_elo,World Football Elo Ratings,2026-06-15,55,1652,CD,https://www.eloratings.net/,85.83471074380165
+Israel,israel,world_football_elo,World Football Elo Ratings,2026-06-15,56,1647,IL,https://www.eloratings.net/,85.5909090909091
+Romania,romania,world_football_elo,World Football Elo Ratings,2026-06-15,57,1639,RO,https://www.eloratings.net/,85.34710743801654
+Bolivia,bolivia,world_football_elo,World Football Elo Ratings,2026-06-15,58,1621,BO,https://www.eloratings.net/,85.10330578512396
+Bosnia and Herzegovina,bosnia and herzegovina,world_football_elo,World Football Elo Ratings,2026-06-15,59,1616,BA,https://www.eloratings.net/,84.61570247933884
+Albania,albania,world_football_elo,World Football Elo Ratings,2026-06-15,59,1616,AL,https://www.eloratings.net/,84.61570247933884
+Cameroon,cameroon,world_football_elo,World Football Elo Ratings,2026-06-15,61,1614,CM,https://www.eloratings.net/,84.37190082644628
+Costa Rica,costa rica,world_football_elo,World Football Elo Ratings,2026-06-15,62,1608,CR,https://www.eloratings.net/,84.12809917355372
+Iraq,iraq,world_football_elo,World Football Elo Ratings,2026-06-15,63,1607,IQ,https://www.eloratings.net/,83.88429752066116
+Northern Ireland,northern ireland,world_football_elo,World Football Elo Ratings,2026-06-15,64,1605,EI,https://www.eloratings.net/,83.64049586776859
+North Macedonia,north macedonia,world_football_elo,World Football Elo Ratings,2026-06-15,65,1589,NM,https://www.eloratings.net/,83.39669421487604
+Mali,mali,world_football_elo,World Football Elo Ratings,2026-06-15,66,1588,ML,https://www.eloratings.net/,83.15289256198346
+Tunisia,tunisia,world_football_elo,World Football Elo Ratings,2026-06-15,67,1585,TN,https://www.eloratings.net/,82.9090909090909
+Cape Verde,cape verde,world_football_elo,World Football Elo Ratings,2026-06-15,68,1578,CV,https://www.eloratings.net/,82.66528925619835
+Saudi Arabia,saudi arabia,world_football_elo,World Football Elo Ratings,2026-06-15,69,1576,SA,https://www.eloratings.net/,82.42148760330579
+Honduras,honduras,world_football_elo,World Football Elo Ratings,2026-06-15,70,1570,HN,https://www.eloratings.net/,82.17768595041322
+Iceland,iceland,world_football_elo,World Football Elo Ratings,2026-06-15,71,1568,IS,https://www.eloratings.net/,81.93388429752065
+New Zealand,new zealand,world_football_elo,World Football Elo Ratings,2026-06-15,72,1562,NZ,https://www.eloratings.net/,81.69008264462809
+Angola,angola,world_football_elo,World Football Elo Ratings,2026-06-15,73,1542,AO,https://www.eloratings.net/,81.44628099173553
+United Arab Emirates,united arab emirates,world_football_elo,World Football Elo Ratings,2026-06-15,74,1540,AE,https://www.eloratings.net/,81.20247933884298
+Finland,finland,world_football_elo,World Football Elo Ratings,2026-06-15,75,1536,FI,https://www.eloratings.net/,80.71487603305786
+Haiti,haiti,world_football_elo,World Football Elo Ratings,2026-06-15,75,1536,HT,https://www.eloratings.net/,80.71487603305786
+Burkina Faso,burkina faso,world_football_elo,World Football Elo Ratings,2026-06-15,77,1529,BF,https://www.eloratings.net/,80.47107438016529
+Jamaica,jamaica,world_football_elo,World Football Elo Ratings,2026-06-15,78,1527,JM,https://www.eloratings.net/,80.22727272727272
+Belarus,belarus,world_football_elo,World Football Elo Ratings,2026-06-15,79,1522,BY,https://www.eloratings.net/,79.98347107438016
+South Africa,south africa,world_football_elo,World Football Elo Ratings,2026-06-15,80,1511,ZA,https://www.eloratings.net/,79.7396694214876
+Ghana,ghana,world_football_elo,World Football Elo Ratings,2026-06-15,81,1510,GH,https://www.eloratings.net/,79.49586776859505
+Guatemala,guatemala,world_football_elo,World Football Elo Ratings,2026-06-15,82,1504,GT,https://www.eloratings.net/,79.25206611570248
+Oman,oman,world_football_elo,World Football Elo Ratings,2026-06-15,83,1480,OM,https://www.eloratings.net/,79.00826446280992
+Syria,syria,world_football_elo,World Football Elo Ratings,2026-06-15,84,1479,SY,https://www.eloratings.net/,78.76446280991735
+Palestine,palestine,world_football_elo,World Football Elo Ratings,2026-06-15,85,1465,PS,https://www.eloratings.net/,78.52066115702479
+Guinea,guinea,world_football_elo,World Football Elo Ratings,2026-06-15,86,1463,GN,https://www.eloratings.net/,78.27685950413223
+Montenegro,montenegro,world_football_elo,World Football Elo Ratings,2026-06-15,87,1461,ME,https://www.eloratings.net/,78.03305785123968
+Bulgaria,bulgaria,world_football_elo,World Football Elo Ratings,2026-06-15,88,1458,BG,https://www.eloratings.net/,77.7892561983471
+Luxembourg,luxembourg,world_football_elo,World Football Elo Ratings,2026-06-15,89,1450,LU,https://www.eloratings.net/,77.54545454545455
+Qatar,qatar,world_football_elo,World Football Elo Ratings,2026-06-15,90,1447,QA,https://www.eloratings.net/,77.30165289256198
+Northern Cyprus,northern cyprus,world_football_elo,World Football Elo Ratings,2026-06-15,91,1442,NS,https://www.eloratings.net/,77.05785123966942
+Suriname,suriname,world_football_elo,World Football Elo Ratings,2026-06-15,92,1431,SR,https://www.eloratings.net/,76.81404958677686
+Kazakhstan,kazakhstan,world_football_elo,World Football Elo Ratings,2026-06-15,93,1428,KZ,https://www.eloratings.net/,76.5702479338843
+Curaçao,curacao,world_football_elo,World Football Elo Ratings,2026-06-15,94,1427,CW,https://www.eloratings.net/,76.32644628099173
+China,china,world_football_elo,World Football Elo Ratings,2026-06-15,95,1424,CN,https://www.eloratings.net/,75.8388429752066
+Kurdistan,kurdistan,world_football_elo,World Football Elo Ratings,2026-06-15,95,1424,KD,https://www.eloratings.net/,75.8388429752066
+Libya,libya,world_football_elo,World Football Elo Ratings,2026-06-15,97,1420,LY,https://www.eloratings.net/,75.59504132231405
+Gambia,gambia,world_football_elo,World Football Elo Ratings,2026-06-15,98,1419,GM,https://www.eloratings.net/,75.35123966942149
+Bahrain,bahrain,world_football_elo,World Football Elo Ratings,2026-06-15,99,1414,BH,https://www.eloratings.net/,75.10743801652893
+Benin,benin,world_football_elo,World Football Elo Ratings,2026-06-15,100,1405,BJ,https://www.eloratings.net/,74.86363636363637
+Gabon,gabon,world_football_elo,World Football Elo Ratings,2026-06-15,101,1401,GA,https://www.eloratings.net/,74.6198347107438
+Uganda,uganda,world_football_elo,World Football Elo Ratings,2026-06-15,102,1394,UG,https://www.eloratings.net/,74.37603305785123
+Trinidad and Tobago,trinidad and tobago,world_football_elo,World Football Elo Ratings,2026-06-15,103,1386,TT,https://www.eloratings.net/,73.88842975206612
+Faroe Islands,faroe islands,world_football_elo,World Football Elo Ratings,2026-06-15,103,1386,FO,https://www.eloratings.net/,73.88842975206612
+Niger,niger,world_football_elo,World Football Elo Ratings,2026-06-15,105,1382,NE,https://www.eloratings.net/,73.64462809917356
+Madagascar,madagascar,world_football_elo,World Football Elo Ratings,2026-06-15,106,1380,MG,https://www.eloratings.net/,73.15702479338843
+Equatorial Guinea,equatorial guinea,world_football_elo,World Football Elo Ratings,2026-06-15,106,1380,GQ,https://www.eloratings.net/,73.15702479338843
+Togo,togo,world_football_elo,World Football Elo Ratings,2026-06-15,108,1379,TG,https://www.eloratings.net/,72.91322314049587
+Thailand,thailand,world_football_elo,World Football Elo Ratings,2026-06-15,109,1376,TH,https://www.eloratings.net/,72.6694214876033
+North Korea,north korea,world_football_elo,World Football Elo Ratings,2026-06-15,110,1375,KP,https://www.eloratings.net/,72.42561983471074
+Comoros,comoros,world_football_elo,World Football Elo Ratings,2026-06-15,111,1374,KM,https://www.eloratings.net/,72.18181818181819
+Armenia,armenia,world_football_elo,World Football Elo Ratings,2026-06-15,112,1373,AM,https://www.eloratings.net/,71.93801652892562
+Zimbabwe,zimbabwe,world_football_elo,World Football Elo Ratings,2026-06-15,113,1372,ZW,https://www.eloratings.net/,71.4504132231405
+Indonesia,indonesia,world_football_elo,World Football Elo Ratings,2026-06-15,113,1372,ID,https://www.eloratings.net/,71.4504132231405
+Zambia,zambia,world_football_elo,World Football Elo Ratings,2026-06-15,115,1371,ZM,https://www.eloratings.net/,71.20661157024793
+Kenya,kenya,world_football_elo,World Football Elo Ratings,2026-06-15,116,1363,KE,https://www.eloratings.net/,70.96280991735537
+Estonia,estonia,world_football_elo,World Football Elo Ratings,2026-06-15,117,1360,EE,https://www.eloratings.net/,70.71900826446281
+Vietnam,vietnam,world_football_elo,World Football Elo Ratings,2026-06-15,118,1351,VN,https://www.eloratings.net/,70.47520661157024
+Sudan,sudan,world_football_elo,World Football Elo Ratings,2026-06-15,119,1350,SD,https://www.eloratings.net/,70.23140495867769
+Reunion,reunion,world_football_elo,World Football Elo Ratings,2026-06-15,120,1345,RE,https://www.eloratings.net/,69.98760330578511
+El Salvador,el salvador,world_football_elo,World Football Elo Ratings,2026-06-15,121,1342,SV,https://www.eloratings.net/,69.5
+Mozambique,mozambique,world_football_elo,World Football Elo Ratings,2026-06-15,121,1342,MZ,https://www.eloratings.net/,69.5
+Sierra Leone,sierra leone,world_football_elo,World Football Elo Ratings,2026-06-15,123,1341,SL,https://www.eloratings.net/,69.25619834710744
+Guadeloupe,guadeloupe,world_football_elo,World Football Elo Ratings,2026-06-15,124,1338,GP,https://www.eloratings.net/,69.01239669421489
+Rwanda,rwanda,world_football_elo,World Football Elo Ratings,2026-06-15,125,1336,RW,https://www.eloratings.net/,68.76859504132231
+Nicaragua,nicaragua,world_football_elo,World Football Elo Ratings,2026-06-15,126,1333,NI,https://www.eloratings.net/,68.52479338842976
+Kuwait,kuwait,world_football_elo,World Football Elo Ratings,2026-06-15,127,1332,KW,https://www.eloratings.net/,68.28099173553719
+Mauritania,mauritania,world_football_elo,World Football Elo Ratings,2026-06-15,128,1329,MR,https://www.eloratings.net/,68.03719008264463
+Azerbaijan,azerbaijan,world_football_elo,World Football Elo Ratings,2026-06-15,129,1322,AZ,https://www.eloratings.net/,67.79338842975207
+Zanzibar,zanzibar,world_football_elo,World Football Elo Ratings,2026-06-15,130,1320,ZN,https://www.eloratings.net/,67.5495867768595
+Cyprus,cyprus,world_football_elo,World Football Elo Ratings,2026-06-15,131,1314,CY,https://www.eloratings.net/,67.30578512396694
+Tanzania,tanzania,world_football_elo,World Football Elo Ratings,2026-06-15,132,1313,TZ,https://www.eloratings.net/,67.06198347107438
+Martinique,martinique,world_football_elo,World Football Elo Ratings,2026-06-15,133,1312,MQ,https://www.eloratings.net/,66.81818181818181
+Liberia,liberia,world_football_elo,World Football Elo Ratings,2026-06-15,134,1304,LR,https://www.eloratings.net/,66.57438016528926
+Kyrgyzstan,kyrgyzstan,world_football_elo,World Football Elo Ratings,2026-06-15,136,1295,KG,https://www.eloratings.net/,66.3305785123967
+Malaysia,malaysia,world_football_elo,World Football Elo Ratings,2026-06-15,137,1293,MY,https://www.eloratings.net/,66.08677685950414
+Guyana,guyana,world_football_elo,World Football Elo Ratings,2026-06-15,138,1292,GY,https://www.eloratings.net/,65.84297520661157
+Lebanon,lebanon,world_football_elo,World Football Elo Ratings,2026-06-15,139,1288,LB,https://www.eloratings.net/,65.35537190082644
+Latvia,latvia,world_football_elo,World Football Elo Ratings,2026-06-15,139,1288,LV,https://www.eloratings.net/,65.35537190082644
+Ethiopia,ethiopia,world_football_elo,World Football Elo Ratings,2026-06-15,141,1287,ET,https://www.eloratings.net/,65.11157024793388
+New Caledonia,new caledonia,world_football_elo,World Football Elo Ratings,2026-06-15,142,1286,NC,https://www.eloratings.net/,64.86776859504133
+Tajikistan,tajikistan,world_football_elo,World Football Elo Ratings,2026-06-15,143,1285,TJ,https://www.eloratings.net/,64.3801652892562
+Burundi,burundi,world_football_elo,World Football Elo Ratings,2026-06-15,143,1285,BI,https://www.eloratings.net/,64.3801652892562
+Dominican Republic,dominican republic,world_football_elo,World Football Elo Ratings,2026-06-15,145,1283,DO,https://www.eloratings.net/,64.13636363636364
+Lithuania,lithuania,world_football_elo,World Football Elo Ratings,2026-06-15,146,1279,LT,https://www.eloratings.net/,63.89256198347107
+Moldova,moldova,world_football_elo,World Football Elo Ratings,2026-06-15,147,1270,MD,https://www.eloratings.net/,63.64876033057851
+Botswana,botswana,world_football_elo,World Football Elo Ratings,2026-06-15,148,1267,BW,https://www.eloratings.net/,63.404958677685954
+Malta,malta,world_football_elo,World Football Elo Ratings,2026-06-15,149,1255,MT,https://www.eloratings.net/,63.16115702479339
+Guinea-Bissau,guinea bissau,world_football_elo,World Football Elo Ratings,2026-06-15,150,1248,GW,https://www.eloratings.net/,62.917355371900825
+Cuba,cuba,world_football_elo,World Football Elo Ratings,2026-06-15,151,1239,CU,https://www.eloratings.net/,62.429752066115704
+Malawi,malawi,world_football_elo,World Football Elo Ratings,2026-06-15,151,1239,MW,https://www.eloratings.net/,62.429752066115704
+Central African Republic,central african republic,world_football_elo,World Football Elo Ratings,2026-06-15,153,1236,CF,https://www.eloratings.net/,62.18595041322314
+French Guiana,french guiana,world_football_elo,World Football Elo Ratings,2026-06-15,154,1223,GF,https://www.eloratings.net/,61.94214876033058
+Mayotte,mayotte,world_football_elo,World Football Elo Ratings,2026-06-15,155,1216,YT,https://www.eloratings.net/,61.69834710743802
+Turkmenistan,turkmenistan,world_football_elo,World Football Elo Ratings,2026-06-15,156,1209,TM,https://www.eloratings.net/,61.45454545454545
+Congo,congo,world_football_elo,World Football Elo Ratings,2026-06-15,157,1207,CG,https://www.eloratings.net/,61.210743801652896
+Eritrea,eritrea,world_football_elo,World Football Elo Ratings,2026-06-15,158,1201,ER,https://www.eloratings.net/,60.966942148760324
+Lesotho,lesotho,world_football_elo,World Football Elo Ratings,2026-06-15,159,1198,LS,https://www.eloratings.net/,60.72314049586777
+Yemen,yemen,world_football_elo,World Football Elo Ratings,2026-06-15,160,1195,YE,https://www.eloratings.net/,60.47933884297521
+Philippines,philippines,world_football_elo,World Football Elo Ratings,2026-06-15,161,1179,PH,https://www.eloratings.net/,60.235537190082646
+Tahiti,tahiti,world_football_elo,World Football Elo Ratings,2026-06-15,162,1177,TI,https://www.eloratings.net/,59.99173553719008
+Eswatini,eswatini,world_football_elo,World Football Elo Ratings,2026-06-15,163,1148,SW,https://www.eloratings.net/,59.747933884297524
+Saint Vincent and the Grenadines,saint vincent and the grenadines,world_football_elo,World Football Elo Ratings,2026-06-15,164,1141,VC,https://www.eloratings.net/,59.50413223140496
+Papua New Guinea,papua new guinea,world_football_elo,World Football Elo Ratings,2026-06-15,165,1135,PG,https://www.eloratings.net/,59.01652892561984
+Puerto Rico,puerto rico,world_football_elo,World Football Elo Ratings,2026-06-15,165,1135,PR,https://www.eloratings.net/,59.01652892561984
+Singapore,singapore,world_football_elo,World Football Elo Ratings,2026-06-15,167,1134,SG,https://www.eloratings.net/,58.77272727272727
+India,india,world_football_elo,World Football Elo Ratings,2026-06-15,168,1128,IN,https://www.eloratings.net/,58.52892561983471
+Vanuatu,vanuatu,world_football_elo,World Football Elo Ratings,2026-06-15,169,1118,VU,https://www.eloratings.net/,58.28512396694215
+Bermuda,bermuda,world_football_elo,World Football Elo Ratings,2026-06-15,170,1117,BM,https://www.eloratings.net/,58.04132231404959
+South Sudan,south sudan,world_football_elo,World Football Elo Ratings,2026-06-15,171,1109,SS,https://www.eloratings.net/,57.79752066115702
+Fiji,fiji,world_football_elo,World Football Elo Ratings,2026-06-15,172,1104,FJ,https://www.eloratings.net/,57.553719008264466
+Hong Kong,hong kong,world_football_elo,World Football Elo Ratings,2026-06-15,173,1101,HK,https://www.eloratings.net/,57.3099173553719
+Grenada,grenada,world_football_elo,World Football Elo Ratings,2026-06-15,174,1098,GD,https://www.eloratings.net/,57.06611570247934
+Andorra,andorra,world_football_elo,World Football Elo Ratings,2026-06-15,175,1080,AD,https://www.eloratings.net/,56.82231404958678
+Mauritius,mauritius,world_football_elo,World Football Elo Ratings,2026-06-15,176,1073,MU,https://www.eloratings.net/,56.09090909090909
+Chad,chad,world_football_elo,World Football Elo Ratings,2026-06-15,176,1073,TD,https://www.eloratings.net/,56.09090909090909
+Belize,belize,world_football_elo,World Football Elo Ratings,2026-06-15,176,1073,BZ,https://www.eloratings.net/,56.09090909090909
+Solomon Islands,solomon islands,world_football_elo,World Football Elo Ratings,2026-06-15,179,1054,SB,https://www.eloratings.net/,55.84710743801653
+Saint Martin,saint martin,world_football_elo,World Football Elo Ratings,2026-06-15,180,1042,MF,https://www.eloratings.net/,55.603305785123965
+Sao Tome and Principe,sao tome and principe,world_football_elo,World Football Elo Ratings,2026-06-15,181,1035,ST,https://www.eloratings.net/,55.35950413223141
+Saint Kitts and Nevis,saint kitts and nevis,world_football_elo,World Football Elo Ratings,2026-06-15,182,1029,KN,https://www.eloratings.net/,55.11570247933884
+Gibraltar,gibraltar,world_football_elo,World Football Elo Ratings,2026-06-15,183,1011,GI,https://www.eloratings.net/,54.87190082644628
+Somaliland,somaliland,world_football_elo,World Football Elo Ratings,2026-06-15,184,1005,JS,https://www.eloratings.net/,54.62809917355372
+Saint Lucia,saint lucia,world_football_elo,World Football Elo Ratings,2026-06-15,185,1003,LC,https://www.eloratings.net/,54.38429752066116
+Western Sahara,western sahara,world_football_elo,World Football Elo Ratings,2026-06-15,186,996,EH,https://www.eloratings.net/,54.14049586776859
+Myanmar,myanmar,world_football_elo,World Football Elo Ratings,2026-06-15,187,984,MM,https://www.eloratings.net/,53.896694214876035
+Somalia,somalia,world_football_elo,World Football Elo Ratings,2026-06-15,188,979,SO,https://www.eloratings.net/,53.65289256198347
+Aruba,aruba,world_football_elo,World Football Elo Ratings,2026-06-15,189,978,AW,https://www.eloratings.net/,53.40909090909091
+Sint Maarten,sint maarten,world_football_elo,World Football Elo Ratings,2026-06-15,190,975,SX,https://www.eloratings.net/,53.16528925619835
+Montserrat,montserrat,world_football_elo,World Football Elo Ratings,2026-06-15,191,972,MS,https://www.eloratings.net/,52.921487603305785
+Afghanistan,afghanistan,world_football_elo,World Football Elo Ratings,2026-06-15,192,961,AF,https://www.eloratings.net/,52.67768595041322
+Greenland,greenland,world_football_elo,World Football Elo Ratings,2026-06-15,193,945,GL,https://www.eloratings.net/,52.43388429752066
+Bangladesh,bangladesh,world_football_elo,World Football Elo Ratings,2026-06-15,194,942,BD,https://www.eloratings.net/,52.1900826446281
+Djibouti,djibouti,world_football_elo,World Football Elo Ratings,2026-06-15,195,940,DJ,https://www.eloratings.net/,51.946280991735534
+Dominica,dominica,world_football_elo,World Football Elo Ratings,2026-06-15,196,934,DM,https://www.eloratings.net/,51.70247933884298
+Pakistan,pakistan,world_football_elo,World Football Elo Ratings,2026-06-15,197,909,PK,https://www.eloratings.net/,51.45867768595041
+Monaco,monaco,world_football_elo,World Football Elo Ratings,2026-06-15,198,903,MC,https://www.eloratings.net/,51.21487603305785
+Barbados,barbados,world_football_elo,World Football Elo Ratings,2026-06-15,199,898,BB,https://www.eloratings.net/,50.97107438016529
+Antigua and Barbuda,antigua and barbuda,world_football_elo,World Football Elo Ratings,2026-06-15,200,895,AG,https://www.eloratings.net/,50.48347107438016
+Liechtenstein,liechtenstein,world_football_elo,World Football Elo Ratings,2026-06-15,200,895,LI,https://www.eloratings.net/,50.48347107438016
+Nepal,nepal,world_football_elo,World Football Elo Ratings,2026-06-15,202,893,NP,https://www.eloratings.net/,50.239669421487605
+Cambodia,cambodia,world_football_elo,World Football Elo Ratings,2026-06-15,203,871,KH,https://www.eloratings.net/,49.99586776859504
+Seychelles,seychelles,world_football_elo,World Football Elo Ratings,2026-06-15,204,853,SC,https://www.eloratings.net/,49.752066115702476
+Sri Lanka,sri lanka,world_football_elo,World Football Elo Ratings,2026-06-15,205,836,LK,https://www.eloratings.net/,49.50826446280992
+San Marino,san marino,world_football_elo,World Football Elo Ratings,2026-06-15,206,825,SM,https://www.eloratings.net/,49.264462809917354
+Taiwan,taiwan,world_football_elo,World Football Elo Ratings,2026-06-15,207,822,TW,https://www.eloratings.net/,49.02066115702479
+Bonaire,bonaire,world_football_elo,World Football Elo Ratings,2026-06-15,208,817,BQ,https://www.eloratings.net/,48.77685950413223
+Maldives,maldives,world_football_elo,World Football Elo Ratings,2026-06-15,209,801,MV,https://www.eloratings.net/,48.53305785123967
+Cayman Islands,cayman islands,world_football_elo,World Football Elo Ratings,2026-06-15,210,800,KY,https://www.eloratings.net/,48.289256198347104
+Chagos Islands,chagos islands,world_football_elo,World Football Elo Ratings,2026-06-15,211,782,HG,https://www.eloratings.net/,48.04545454545455
+Tuvalu,tuvalu,world_football_elo,World Football Elo Ratings,2026-06-15,212,756,TV,https://www.eloratings.net/,47.80165289256198
+British Virgin Islands,british virgin islands,world_football_elo,World Football Elo Ratings,2026-06-15,213,743,VG,https://www.eloratings.net/,47.55785123966942
+Sint Eustatius,sint eustatius,world_football_elo,World Football Elo Ratings,2026-06-15,214,737,EU,https://www.eloratings.net/,47.31404958677686
+Laos,laos,world_football_elo,World Football Elo Ratings,2026-06-15,215,734,LA,https://www.eloratings.net/,46.82644628099173
+East Timor,east timor,world_football_elo,World Football Elo Ratings,2026-06-15,215,734,TL,https://www.eloratings.net/,46.82644628099173
+Samoa,samoa,world_football_elo,World Football Elo Ratings,2026-06-15,217,728,WS,https://www.eloratings.net/,46.582644628099175
+Mongolia,mongolia,world_football_elo,World Football Elo Ratings,2026-06-15,218,726,MN,https://www.eloratings.net/,46.33884297520661
+Saint Barthelemy,saint barthelemy,world_football_elo,World Football Elo Ratings,2026-06-15,219,725,BL,https://www.eloratings.net/,46.095041322314046
+Guam,guam,world_football_elo,World Football Elo Ratings,2026-06-15,220,706,GU,https://www.eloratings.net/,45.85123966942149
+Wallis and Futuna,wallis and futuna,world_football_elo,World Football Elo Ratings,2026-06-15,221,699,WF,https://www.eloratings.net/,45.607438016528924
+Vatican,vatican,world_football_elo,World Football Elo Ratings,2026-06-15,222,692,VA,https://www.eloratings.net/,45.36363636363637
+Saba,saba,world_football_elo,World Football Elo Ratings,2026-06-15,223,691,AB,https://www.eloratings.net/,45.1198347107438
+Bahamas,bahamas,world_football_elo,World Football Elo Ratings,2026-06-15,224,685,BS,https://www.eloratings.net/,44.87603305785124
+Saint Pierre and Miquelon,saint pierre and miquelon,world_football_elo,World Football Elo Ratings,2026-06-15,225,677,PM,https://www.eloratings.net/,44.63223140495868
+Turks and Caicos Islands,turks and caicos islands,world_football_elo,World Football Elo Ratings,2026-06-15,226,657,TC,https://www.eloratings.net/,44.388429752066116
+Anguilla,anguilla,world_football_elo,World Football Elo Ratings,2026-06-15,227,646,AI,https://www.eloratings.net/,44.14462809917355
+Tibet,tibet,world_football_elo,World Football Elo Ratings,2026-06-15,228,629,TE,https://www.eloratings.net/,43.900826446280995
+US Virgin Islands,us virgin islands,world_football_elo,World Football Elo Ratings,2026-06-15,229,628,VI,https://www.eloratings.net/,43.65702479338843
+Bhutan,bhutan,world_football_elo,World Football Elo Ratings,2026-06-15,230,623,BT,https://www.eloratings.net/,43.413223140495866
+Cook Islands,cook islands,world_football_elo,World Football Elo Ratings,2026-06-15,231,622,CK,https://www.eloratings.net/,43.16942148760331
+Macao,macao,world_football_elo,World Football Elo Ratings,2026-06-15,232,589,MO,https://www.eloratings.net/,42.925619834710744
+Christmas Island,christmas island,world_football_elo,World Football Elo Ratings,2026-06-15,233,578,CX,https://www.eloratings.net/,42.68181818181818
+Brunei,brunei,world_football_elo,World Football Elo Ratings,2026-06-15,234,572,BN,https://www.eloratings.net/,42.43801652892562
+Falkland Islands,falkland islands,world_football_elo,World Football Elo Ratings,2026-06-15,235,571,FK,https://www.eloratings.net/,42.19421487603306
+FS Micronesia,fs micronesia,world_football_elo,World Football Elo Ratings,2026-06-15,236,564,FM,https://www.eloratings.net/,41.950413223140494
+Marshall Islands,marshall islands,world_football_elo,World Football Elo Ratings,2026-06-15,237,559,MH,https://www.eloratings.net/,41.70661157024794
+Kiribati,kiribati,world_football_elo,World Football Elo Ratings,2026-06-15,238,544,KI,https://www.eloratings.net/,41.46280991735537
+Tonga,tonga,world_football_elo,World Football Elo Ratings,2026-06-15,239,520,TO,https://www.eloratings.net/,41.21900826446281
+Niue,niue,world_football_elo,World Football Elo Ratings,2026-06-15,240,496,NU,https://www.eloratings.net/,40.97520661157025
+Northern Mariana Islands,northern mariana islands,world_football_elo,World Football Elo Ratings,2026-06-15,241,432,MP,https://www.eloratings.net/,40.731404958677686
+Cocos Islands,cocos islands,world_football_elo,World Football Elo Ratings,2026-06-15,242,422,CC,https://www.eloratings.net/,40.48760330578512
+Palau,palau,world_football_elo,World Football Elo Ratings,2026-06-15,243,402,PW,https://www.eloratings.net/,40.243801652892564
+Eastern Samoa,eastern samoa,world_football_elo,World Football Elo Ratings,2026-06-15,244,369,AS,https://www.eloratings.net/,40
